@@ -35,7 +35,7 @@ Comprender e implementar el concepto de *árbol binario de búsqueda* aplicado a
 [Pega aquí tu captura]
 
 ## 🎥 Video de Sustentación
-[Pega aquí el enlace de tu video]
+[https://drive.google.com/file/d/1uCJAfOXwn9739sY8eS8eREH2H_Z3F7WG/view?usp=sharing]
 
 ## 🧠 Explicación
 - *Insertar (recursivo):* Compara el ID. Si es menor → rama izquierda; si mayor → rama derecha. Se repite hasta encontrar espacio vacío.
